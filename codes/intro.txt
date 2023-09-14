@@ -1,0 +1,1 @@
+These are the codes written in c language which are done in the class lectures or youtube lectures.
