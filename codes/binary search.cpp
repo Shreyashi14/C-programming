@@ -31,7 +31,7 @@ int main() {
     int c = 0;
     int arr[] = {10,20,30,40,50,60,70,80,90,100,110,120,130,140,150};
     int n = sizeof(arr) / sizeof(arr[0]);
-    int y = 30;
+    int y = 80;
     int flag=0;
     int result = binarySearch(arr, 0, n - 1, y,&flag);
     if (result == -1) {
